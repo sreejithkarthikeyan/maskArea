@@ -17,23 +17,28 @@
 
 ##Usage
 
-####Add a div in html page named maskArea
+####Add div in html page with attribute 'id' as  maskArea or you can choose any selector name
 
 ```<div id="maskArea"></div> ```
 
 ####Add script in html page
 
-    <script>
-    jQuery(document).ready( function($) {
-                    $('#maskArea').maskArea({
-                    bgImage  :'fmages/b.jpg',
-                    maskerImage  :'fmages/f.jpg',
-                    width:'800',
-                    height:'800',
-                    maskerWidth  :'150',
-                    maskerHeight :'150',
-                    complete	 : function() { //alert('Done!');
-                    }
+ <script>jQuery(document).ready( function($) {
+                    $("#maskArea").maskArea({
+                    bgImage  :"fmages/b.jpg",
+                    maskerImage :"fmages/f.jpg",
+                    width:"500",
+                    height:"500",
+                    maskerWidth  :"150",
+                    maskerHeight :"150",
+                    complete	 : function() {                     }
                 });
-       });
-    </script> 
+       });</script> 
+
+     Attributes
+      bgImage      : Image url for the background
+      maskerImage :  Image url for the masker Image
+      width       :  width for the image container
+      height       : height for the image container
+      maskerWidth : width for the mask,
+      maskerHeight : height for the mask
