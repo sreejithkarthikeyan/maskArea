@@ -27,7 +27,8 @@
 
 ####Add script in html page
 ```
- <script>jQuery(document).ready( function($) {
+        <script>
+         jQuery(document).ready( function($) {
                     $("#maskArea").maskArea({
                     bgImage  :"fmages/b.jpg",
                     maskerImage :"fmages/f.jpg",
@@ -37,7 +38,8 @@
                     maskerHeight :"150",
                     complete	 : function() {}
                 });
-       })</script> 
+       })
+       </script> 
 ```
 
    **Attributes**
@@ -71,3 +73,4 @@
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
 
 ###Thanks
+####Sreejith k s
