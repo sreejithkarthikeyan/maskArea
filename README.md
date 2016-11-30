@@ -61,10 +61,10 @@
 <script src="js/jquery-3.1.1.min.js"></script>
 <script src="js/jquery-ui.js"></script>
  ```
-###These files can download from 
+###Download Links 
 
-Jquery [Download](http://jquery.com/download/).
-JqueryUI [Download](https://jqueryui.com/download/all/).
+#####Jquery [Download](http://jquery.com/download/).
+#####JqueryUI [Download](https://jqueryui.com/download/all/).
 
 ####License
 
