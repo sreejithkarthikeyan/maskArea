@@ -46,7 +46,7 @@
       maskerHeight : height for the mask
 ```
 
-
+* use same image dimension for both images. bgImage and maskerImage
 
 ####External Files 
 
@@ -60,3 +60,4 @@
 
 Jquery [Download](http://jquery.com/download/).
 JqueryUI [Download](https://jqueryui.com/download/all/).
+
