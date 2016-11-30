@@ -22,7 +22,7 @@
 ```<div id="maskArea"></div> ```
 
 ####Add script in html page
-
+```
  <script>jQuery(document).ready( function($) {
                     $("#maskArea").maskArea({
                     bgImage  :"fmages/b.jpg",
@@ -33,12 +33,15 @@
                     maskerHeight :"150",
                     complete	 : function() {                     }
                 });
-       });</script> 
+       })</script> 
+```
 
-     Attributes
+   **Attributes**
+   ```
       bgImage      : Image url for the background
       maskerImage :  Image url for the masker Image
       width       :  width for the image container
       height       : height for the image container
       maskerWidth : width for the mask,
       maskerHeight : height for the mask
+```
