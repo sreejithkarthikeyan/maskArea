@@ -2,7 +2,7 @@
 
 #maskArea.js
 
-##A jQuery plugin to be used to create mask effect.
+###A jQuery plugin to be used to create overlay mask effect & can use for Image comparison.
 
 ##Manual
 ###Include the minified file in your project.
