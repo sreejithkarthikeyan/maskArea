@@ -2,12 +2,11 @@
 
 #maskArea.js
 
-###A jQuery plugin to to create overlay mask effect .
+###A jQuery plugin to create overlay mask effect .
 
-
-####overlay one image over the other to view the visual differences between both the photos.  
-####user should be able to drag the Mask area.
-####can resize the mask area.
+#####overlay one image over the other to view the visual differences between both the photos.  
+#####user should be able to drag the Mask area.
+#####can resize the mask area.
 
 ##Manual
 
