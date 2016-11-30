@@ -1,5 +1,4 @@
-/*!
-
+/*
  * maskArea 0.1
  * http://pointslabs.co/
  * MIT licensed
@@ -8,7 +7,6 @@
  * A Simple Mask Area Plugin.
  * Masking an Image with Another Image.
  * 
-
 */
 
 (function($) {
@@ -68,8 +66,6 @@
             $(this).removeClass("hiddendiv").addClass("visiblediv");
         }).attr('src', _tImg);
 
-        //$(_obj).find('#imageB').attr('src', _bImg);
-        // $(_obj).find('#imageT').attr('src', _tImg);
         drawRectangle(_obj);
     }
 
@@ -130,26 +126,5 @@
         });
     }
 }(jQuery));
-/*sreeksleo@gmail.com
 
-*/
-/*
-     <div class="" id="maskArea">
-            <div class="drag">
-                <div id="masker" >sree</div>
-                <div class="imageFrame panzoom clear" id="recBox" >
-                    <div id="ImgContainer">
-                        <div class='img-box-archive imageloader '>
-                            <img id="imageT"  src="" alt="">
-                            <img id="imageB"  src="" alt="">
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-        </div>
-
-
-
-*/
+/*sreeksleo@gmail.com 2016*/
