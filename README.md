@@ -20,3 +20,17 @@
 ####Add a div in html page named maskArea
 
 ```<div id="maskArea"></div> ```
+
+####Add script in html page
+
+    <script>
+    jQuery(document).ready( function($) {
+                   $('#maskArea').maskArea({
+                    bgImage      :'fmages/b.jpg',
+                    maskerImage  :'fmages/f.jpg',
+                    maskerWidth  :'150px',
+                    maskerHeight :'150px',
+                    complete	   : function() { }
+                   });
+       });
+    </script> 
