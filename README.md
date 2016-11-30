@@ -58,5 +58,5 @@
  ```
 ###These files can download from 
 
-Jquery [Download](https://http://jqueryui.com/download//).
-JqueryUI [Download](http://jqueryui.com/download/).
+Jquery [Download](http://jquery.com/download/).
+JqueryUI [Download](https://jqueryui.com/download/all/).
