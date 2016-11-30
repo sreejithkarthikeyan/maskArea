@@ -72,5 +72,5 @@
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
 
-###Thanks
-####Sreejith k s
+###THANKS
+####SREEJITH. K. S
