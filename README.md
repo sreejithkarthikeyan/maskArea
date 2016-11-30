@@ -25,12 +25,15 @@
 
     <script>
     jQuery(document).ready( function($) {
-                   $('#maskArea').maskArea({
-                    bgImage      :'fmages/b.jpg',
+                    $('#maskArea').maskArea({
+                    bgImage  :'fmages/b.jpg',
                     maskerImage  :'fmages/f.jpg',
-                    maskerWidth  :'150px',
-                    maskerHeight :'150px',
-                    complete	   : function() { }
-                   });
+                    width:'800',
+                    height:'800',
+                    maskerWidth  :'150',
+                    maskerHeight :'150',
+                    complete	 : function() { //alert('Done!');
+                    }
+                });
        });
     </script> 
