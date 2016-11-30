@@ -1,12 +1,11 @@
 
-
-#maskArea.js
+#maskArea.js 
 
 ###A jQuery plugin to create overlay mask effect .
 
-#####overlay one image over the other to view the visual differences between both the photos.  
-#####user should be able to drag the Mask area.
-#####can resize the mask area.
+-overlay one image over the other to view the visual differences between both the photos.  
+-user should be able to drag the Mask area.
+-user should be able to resize the mask area.
 
 ##Manual
 
@@ -69,3 +68,4 @@ JqueryUI [Download](https://jqueryui.com/download/all/).
 ####License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
+
