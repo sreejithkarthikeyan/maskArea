@@ -31,7 +31,7 @@
                     height:"500",
                     maskerWidth  :"150",
                     maskerHeight :"150",
-                    complete	 : function() {                     }
+                    complete	 : function() {}
                 });
        })</script> 
 ```
@@ -45,3 +45,18 @@
       maskerWidth : width for the mask,
       maskerHeight : height for the mask
 ```
+
+
+
+####External Files 
+
+####Add jquery library jquery-ui.js and jquery-ui.css in your html page
+```
+<link href="css/jquery-ui.css" rel="stylesheet">
+<script src="js/jquery-3.1.1.min.js"></script>
+<script src="js/jquery-ui.js"></script>
+ ```
+###These files can download from 
+
+Jquery [Download](https://http://jqueryui.com/download//).
+JqueryUI [Download](http://jqueryui.com/download/).
