@@ -5,6 +5,7 @@
 ###A jQuery plugin to be used to create overlay mask effect & can use for Image comparison.
 
 ##Manual
+
 ###Include the minified file in your project.
 
 ####Adding Style sheet in your html page
@@ -50,7 +51,7 @@
 
 ####External Files 
 
-####Add jquery library jquery-ui.js and jquery-ui.css in your html page
+####Add jquery.js, jquery-ui.js and jquery-ui.css in html page.
 ```
 <link href="css/jquery-ui.css" rel="stylesheet">
 <script src="js/jquery-3.1.1.min.js"></script>
@@ -61,3 +62,6 @@
 Jquery [Download](http://jquery.com/download/).
 JqueryUI [Download](https://jqueryui.com/download/all/).
 
+####License
+
+###This project is licensed under the MIT License - see the LICENSE.md[Download](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
