@@ -50,7 +50,8 @@
       maskerHeight : height for the mask
 ```
 
-* use same image dimension for both images. bgImage and maskerImage
+* Masks contain at least two parts: the graphic you want to mask(bgImage) and the graphic used to mask it(maskerImage),
+  Use same image dimension for both images(bgImage and maskerImage).
 
 ####External Files 
 
