@@ -1,0 +1,59 @@
+
+.img-box-archive{
+    background-color:#ccc;
+    border:1px solid #000;
+    position: relative;
+        
+}
+.has-mask{
+    position:absolute;
+}
+.ui-resizable-handle {
+    background: #C81D2D;
+    border: 1px solid #FFF;
+    width: 10px;
+    height: 10px;
+    z-index: 2;
+}
+.ui-resizable-ne {
+    cursor: ne-resize;
+    width: 10px;
+    height: 10px;
+    right: -5px;
+    top: -5px;
+}
+.ui-resizable-se {
+    right: -5px;
+    bottom: -5px;
+}
+.loadingbarT, .loadingbarB {
+    position: absolute;
+    display: block;
+    left: 40%;
+    top: 35%;
+  
+    width: 56px;
+    height: 21px;
+    background-image: url("../images/ajax-preloader.gif");
+    background-repeat: no-repeat;
+}
+.loadingbarB {
+      z-index: 100000;
+}
+.loadingbarT{
+      z-index: 100001;
+}
+#masker{
+     width: 150px;
+    height: 150px;
+    position: absolute;
+    opacity: 1;
+    border: 1px #ffffff dotted;
+}
+.visiblediv {
+    visibility: visible
+}
+
+.hiddendiv {
+    visibility: hidden
+}
