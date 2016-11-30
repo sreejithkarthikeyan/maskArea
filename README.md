@@ -64,4 +64,4 @@ JqueryUI [Download](https://jqueryui.com/download/all/).
 
 ####License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
