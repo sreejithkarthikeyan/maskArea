@@ -10,8 +10,6 @@
  * 
 
 */
-
-jQuery.noConflict();
 (function($) {
     var settings ;
     $.fn.maskArea = function( options ) {
