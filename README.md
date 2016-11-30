@@ -45,15 +45,15 @@ user should be able to resize the mask area.
    **Attributes**
    ```
       bgImage      : Image url for the background
-      maskerImage :  Image url for the masker Image
-      width       :  width for the image container
-      height       : height for the image container
-      maskerWidth : width for the mask,
-      maskerHeight : height for the mask
+      maskerImage  : Image url for the masker Image
+      width        : Width for the image container
+      height       : Height for the image container
+      maskerWidth  : Width for the mask,
+      maskerHeight : Height for the mask
 ```
 
-* Masks contain at least two parts: the graphic you want to mask(bgImage) and the graphic used to mask it(maskerImage),
-  Use same image dimension for both images(bgImage and maskerImage).
+* Masks contain at least two parts : the graphic you want to mask(bgImage) and the graphic used to mask it(maskerImage),
+  
 
 ####External Files 
 
