@@ -92,7 +92,7 @@ user should be able to resize the mask area.
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
 
 
-###Contact me either by[facebook](https://www.facebook.com/sreejithks)  or emailing me to[sreeksleo@gmail.com](https://mailto:sreeksleo@gmail.com)
+###Contact me either by [facebook](https://www.facebook.com/sreejithks)  or emailing me to [sreeksleo@gmail.com](https://mailto:sreeksleo@gmail.com)
 
 ####THANKS
 #####SREEJITH. K. S
