@@ -8,18 +8,17 @@ user should be able to drag the Mask area.
 user should be able to resize the mask area.
 
 ##Manual
+##1.Plugin  with minimal effects.
 
-###Include the minified file in your project.
+###Steps to create a overlay Mask Effect .
 
 ####Adding Style sheet in your html page
 
 ```<link href="css/maskArea.css" rel="stylesheet">```
 
-####Adding js file in your html page
+####Add js file in your html page
 
 ```<script type="text/javascript" src="js/maskArea.js"></script> ```
-
-##Usage
 
 ####Add div in html page with attribute 'id' as  maskArea or you can choose any selector name
 
@@ -70,11 +69,11 @@ user should be able to resize the mask area.
 ##[Download Demo](https://github.com/sreejithkarthikeyan/maskArea/tree/master/demo)
 
 
-##jQuery Plugin under Angular.js Directive
+##2.jQuery Plugin under Angular.js Directive
 
-##Usage
+###Steps to create a overlay Mask Effect under Angular.js Directive .
 
-####Adding js file in your html page
+####Add js file in your html page
 
 ```
 <script src="js/angular.min.js"></script>
