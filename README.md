@@ -80,12 +80,11 @@ user should be able to resize the mask area.
  ```
  
  ####Add div in html
- ```
-  <div ng-app="maskArea">
+ 
+ ``` <div ng-app="maskArea">
   <div id="maskArea" mask-area="{bgImage:'pic/b.jpg',maskerImage:'pic/f.jpg', width:'602',height:'266', maskerWidth:'50', maskerHeight:'50'}">
   </div>
-  </div>
-  ```
+  </div> ```
   ####
 [Download Demo](https://github.com/sreejithkarthikeyan/maskArea/tree/master/demo%20Angular%20Directive)
 ####License
