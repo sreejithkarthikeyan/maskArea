@@ -57,10 +57,12 @@ user should be able to resize the mask area.
 #### External Files 
 
 #### Add jquery.js, jquery-ui.js and jquery-ui.css in html page.
+
 ```
 <link href="css/jquery-ui.css" rel="stylesheet">
 <script src="js/jquery-3.1.1.min.js"></script>
 <script src="js/jquery-ui.js"></script>
+
  ```
 ### Download Links 
 
@@ -81,18 +83,23 @@ user should be able to resize the mask area.
 ```
  
 #### Add div in html page
- ``` <div ng-app="maskArea">
+
+ ``` 
+ <div ng-app="maskArea">
   <div id="maskArea" mask-area="{bgImage:'pic/b.jpg',maskerImage:'pic/f.jpg', width:'602',height:'266', maskerWidth:'50',       maskerHeight:'50'}">
   </div>
-  </div> ```
+  </div>
   
+  ```
+
 ## [Download Demo](https://github.com/sreejithkarthikeyan/maskArea/tree/master/demo%20Angular%20Directive)
+
 #### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sreejithkarthikeyan/maskArea/blob/master/LICENSE.md) file for details
 
-
 ### Contact me either by [facebook](https://www.facebook.com/sreejithks)  or emailing me to [sreeksleo@gmail.com](https://mailto:sreeksleo@gmail.com)
 
 #### THANKS
+
 ##### SREEJITH. K. S
